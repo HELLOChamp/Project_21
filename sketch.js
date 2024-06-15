@@ -4,8 +4,8 @@ document.body.appendChild(gameArea);
 
 // Style game area
 gameArea.style.position = 'relative';
-gameArea.style.width = '80vw';
-gameArea.style.height = '80vh';
+gameArea.style.width = '150vw';
+gameArea.style.height = '150vh';
 gameArea.style.border = '2px solid black';
 gameArea.style.overflow = 'hidden';
 gameArea.style.margin = '0 auto';
